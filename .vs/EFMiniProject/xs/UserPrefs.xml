@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{23CDE8DC-EC63-4F72-8731-4A97A0FDDB27}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AssetTracker.Data/AssetContext.cs">
+    <Files>
+      <File FileName="AssetTracker.Data/AssetContext.cs" Line="18" Column="91" />
+      <File FileName="AssetTracker.Domain/Mobile.cs" />
+      <File FileName="AssetTracker.Domain/Computer.cs" />
+      <File FileName="AssetTracker.Domain/Asset.cs" />
+      <File FileName="AssetTracker.Domain/Office.cs" />
+      <File FileName="ConsoleApp/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EFMiniProject" expanded="True">
+            <Node name="AssetTracker.Data" expanded="True">
+              <Node name="AssetContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

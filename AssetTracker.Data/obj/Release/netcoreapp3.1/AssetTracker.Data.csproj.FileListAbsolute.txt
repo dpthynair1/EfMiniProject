@@ -1,0 +1,15 @@
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/bin/Release/netcoreapp3.1/AssetTracker.Data.deps.json
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/bin/Release/netcoreapp3.1/AssetTracker.Data.runtimeconfig.json
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/bin/Release/netcoreapp3.1/AssetTracker.Data.runtimeconfig.dev.json
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/bin/Release/netcoreapp3.1/AssetTracker.Data.dll
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/bin/Release/netcoreapp3.1/AssetTracker.Data.pdb
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/bin/Release/netcoreapp3.1/AssetTracker.Domain.dll
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/bin/Release/netcoreapp3.1/AssetTracker.Domain.pdb
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.csprojAssemblyReference.cache
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.AssemblyInfoInputs.cache
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.AssemblyInfo.cs
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.csproj.CoreCompileInputs.cache
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.csproj.CopyComplete
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.dll
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.pdb
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/Release/netcoreapp3.1/AssetTracker.Data.genruntimeconfig.cache

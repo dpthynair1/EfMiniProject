@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddgmKgox6d4YiTlqMz5zx90biQn8EbZKwE2xnSmicmgSdUynMHeh+mvfRMeP+KowoPYYQoPhVbuPMJlew1MAPQ==",
+  "success": true,
+  "projectFilePath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/dpthynair/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

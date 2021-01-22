@@ -1,0 +1,9 @@
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/bin/Debug/netcoreapp3.1/AssetTracker.Domain.deps.json
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/bin/Debug/netcoreapp3.1/AssetTracker.Domain.dll
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/bin/Debug/netcoreapp3.1/AssetTracker.Domain.pdb
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/obj/Debug/netcoreapp3.1/AssetTracker.Domain.csprojAssemblyReference.cache
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/obj/Debug/netcoreapp3.1/AssetTracker.Domain.AssemblyInfoInputs.cache
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/obj/Debug/netcoreapp3.1/AssetTracker.Domain.AssemblyInfo.cs
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/obj/Debug/netcoreapp3.1/AssetTracker.Domain.csproj.CoreCompileInputs.cache
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/obj/Debug/netcoreapp3.1/AssetTracker.Domain.dll
+/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/obj/Debug/netcoreapp3.1/AssetTracker.Domain.pdb

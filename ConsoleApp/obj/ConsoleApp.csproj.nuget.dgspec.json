@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/AssetTracker.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/AssetTracker.Data.csproj",
+        "projectName": "AssetTracker.Data",
+        "projectPath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/AssetTracker.Data.csproj",
+        "packagesPath": "/Users/dpthynair/.nuget/packages/",
+        "outputPath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dpthynair/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj": {
+                "projectPath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj",
+        "projectName": "AssetTracker.Domain",
+        "projectPath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj",
+        "packagesPath": "/Users/dpthynair/.nuget/packages/",
+        "outputPath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dpthynair/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/ConsoleApp.csproj",
+        "packagesPath": "/Users/dpthynair/.nuget/packages/",
+        "outputPath": "/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/dpthynair/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/AssetTracker.Data.csproj": {
+                "projectPath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/AssetTracker.Data.csproj"
+              },
+              "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj": {
+                "projectPath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Domain/AssetTracker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
