@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9akNr42VBjRUdHS/2+7Hdmz/9N1l4dRDFO4QvRdqWGc56wsciWG/aMzzEGxxhCHzPMzdruIc7CAYxggMYjMWg==",
+  "dgSpecHash": "seYQtjXGARN7Hqn50MHmWFTCsllSlckE7BFwu+LjVql0LQU/0+qWQ3HomwIqbcWl34674Neb2g2hSKuJUyhnIg==",
   "success": true,
   "projectFilePath": "/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/ConsoleApp.csproj",
   "expectedPackageFiles": [
+    "/Users/dpthynair/.nuget/packages/countrydata.standard/1.0.1/countrydata.standard.1.0.1.nupkg.sha512",
     "/Users/dpthynair/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/dpthynair/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/dpthynair/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

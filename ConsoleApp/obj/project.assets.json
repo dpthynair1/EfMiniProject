@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "CountryData.Standard/1.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/CountryData.Standard.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/CountryData.Standard.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -1415,6 +1427,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "CountryData.Standard": "1.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2",
           "Newtonsoft.Json": "12.0.3"
         },
         "compile": {
@@ -1427,6 +1441,18 @@
     }
   },
   "libraries": {
+    "CountryData.Standard/1.0.1": {
+      "sha512": "tz5AqBDp63UYGjdCQav3evXlIWqHfBZmCtzg8eHSSTb7DRnQ4ldNtQ+m4SFHvuXdjAZpy71LtcbGg31QZ1/XDA==",
+      "type": "package",
+      "path": "countrydata.standard/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "countrydata.standard.1.0.1.nupkg.sha512",
+        "countrydata.standard.nuspec",
+        "lib/netstandard2.0/CountryData.Standard.dll"
+      ]
+    },
     "Humanizer.Core/2.8.26": {
       "sha512": "OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "type": "package",
@@ -5405,6 +5431,7 @@
     ".NETCoreApp,Version=v3.1": [
       "AssetTracker.Data >= 1.0.0",
       "AssetTracker.Domain >= 1.0.0",
+      "CountryData.Standard >= 1.0.1",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.2"
     ]
   },
@@ -5456,6 +5483,10 @@
       "netcoreapp3.1": {
         "targetAlias": "netcoreapp3.1",
         "dependencies": {
+          "CountryData.Standard": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NbCKzHO557aEsJasKHJ4bgGM1kzd4dtVZGAAOn/bLxQLNySx5B8MaaRyRQymX2sJKa6w7yO+9b633Ko4+lxR7g==",
+  "dgSpecHash": "qTGZiH8HAUFE1Rp8+AW5yK1eko8cE/mf9Y893PyWNLBuG9mrQ28UCTHtPeapbFF72PNqNYAM9WQzW6mR8Knytg==",
   "success": true,
   "projectFilePath": "/Users/dpthynair/Projects/EFMiniProject/AssetTracker.Data/AssetTracker.Data.csproj",
   "expectedPackageFiles": [
+    "/Users/dpthynair/.nuget/packages/countrydata.standard/1.0.1/countrydata.standard.1.0.1.nupkg.sha512",
     "/Users/dpthynair/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/dpthynair/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/dpthynair/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

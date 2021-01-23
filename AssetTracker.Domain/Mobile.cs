@@ -25,11 +25,11 @@ namespace AssetTracker.Domain
         }
 
         public int MobileId { get; set; }
-        
 
 
 
-        public override string Log() => $"{Category.PadRight(15)}{Office.Name.PadRight(20)}{ProdName.PadRight(15)}{ModelName.PadRight(8)}{PurchaseDate.ToShortDateString().PadRight(8)}\t{Price.ToString().PadRight(10)}{Currency.PadLeft(10)}";
+
+        public override string Log() => $"{AssetId.ToString().PadRight(15)}{Category.PadRight(17)}{Office.Name.PadRight(15)}{ProdName.PadRight(15)}{ModelName.PadRight(15)}{PurchaseDate.ToShortDateString().PadRight(15)}{Price.ToString().PadRight(15)}{Currency.PadRight(15)} {ExchangeRate.ToString().PadRight(10)}USD";
 
 
         public override void LogByExpiry(int daysLeft)
@@ -50,6 +50,12 @@ namespace AssetTracker.Domain
             else if (daysLeft < 0)
             {
                 Console.ForegroundColor = ConsoleColor.DarkGray;
+                Console.WriteLine(this.Log());
+                Console.ResetColor();
+            }
+            else {
+
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine(this.Log());
                 Console.ResetColor();
             }

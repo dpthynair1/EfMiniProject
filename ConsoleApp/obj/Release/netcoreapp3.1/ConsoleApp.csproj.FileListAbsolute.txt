@@ -65,3 +65,4 @@
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.dll
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.pdb
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Release/netcoreapp3.1/ConsoleApp.genruntimeconfig.cache
+/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Release/netcoreapp3.1/CountryData.Standard.dll

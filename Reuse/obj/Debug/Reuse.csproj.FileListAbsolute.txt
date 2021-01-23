@@ -1,0 +1,6 @@
+/Users/dpthynair/Projects/EFMiniProject/Reuse/bin/Debug/Reuse.exe
+/Users/dpthynair/Projects/EFMiniProject/Reuse/bin/Debug/Reuse.pdb
+/Users/dpthynair/Projects/EFMiniProject/Reuse/obj/Debug/Reuse.csprojAssemblyReference.cache
+/Users/dpthynair/Projects/EFMiniProject/Reuse/obj/Debug/Reuse.csproj.CoreCompileInputs.cache
+/Users/dpthynair/Projects/EFMiniProject/Reuse/obj/Debug/Reuse.exe
+/Users/dpthynair/Projects/EFMiniProject/Reuse/obj/Debug/Reuse.pdb

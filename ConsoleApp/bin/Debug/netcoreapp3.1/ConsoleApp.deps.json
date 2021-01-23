@@ -10,10 +10,22 @@
         "dependencies": {
           "AssetTracker.Data": "1.0.0",
           "AssetTracker.Domain": "1.0.0",
+          "CountryData.Standard": "1.0.1",
           "Microsoft.EntityFrameworkCore.Design": "5.0.2"
         },
         "runtime": {
           "ConsoleApp.dll": {}
+        }
+      },
+      "CountryData.Standard/1.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CountryData.Standard.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -64,7 +76,7 @@
           "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-arm",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-arm",
@@ -74,7 +86,7 @@
           "runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-arm64",
@@ -84,7 +96,7 @@
           "runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-x64",
@@ -94,7 +106,7 @@
           "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-x86",
@@ -1004,6 +1016,7 @@
       },
       "AssetTracker.Domain/1.0.0": {
         "dependencies": {
+          "CountryData.Standard": "1.0.1",
           "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
@@ -1017,6 +1030,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "CountryData.Standard/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tz5AqBDp63UYGjdCQav3evXlIWqHfBZmCtzg8eHSSTb7DRnQ4ldNtQ+m4SFHvuXdjAZpy71LtcbGg31QZ1/XDA==",
+      "path": "countrydata.standard/1.0.1",
+      "hashPath": "countrydata.standard.1.0.1.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",

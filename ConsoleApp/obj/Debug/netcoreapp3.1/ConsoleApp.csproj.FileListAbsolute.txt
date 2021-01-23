@@ -1,8 +1,13 @@
+/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
+/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
+/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
+/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.deps.json
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.json
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb
+/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/CountryData.Standard.dll
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/Humanizer.dll
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
@@ -57,10 +62,6 @@
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/AssetTracker.Domain.dll
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/AssetTracker.Data.pdb
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/bin/Debug/netcoreapp3.1/AssetTracker.Domain.pdb
-/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache
-/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfoInputs.cache
-/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.AssemblyInfo.cs
-/Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CoreCompileInputs.cache
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.CopyComplete
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll
 /Users/dpthynair/Projects/EFMiniProject/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb
